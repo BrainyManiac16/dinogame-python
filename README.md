@@ -8,6 +8,6 @@ Requirements:
 4. keyboard module
 
 Instructions:
-1. Download the 'main.py' file
+1. Download the 'dino.py' file
 2. Open the dino game in your web browser
 3. Switch to the browser tab once you run the file
